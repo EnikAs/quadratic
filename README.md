@@ -12,4 +12,4 @@ Second numder - coefficent "b".
 
 Third number - coefficient "c".
 
-Then this programm will give you two numbers. If you will insert whis numbers instead of "x", euqality (1) become right.
+Then this programm will give you two numbers. If you will insert whis numbers instead of "x", euqality (1) will be true.
