@@ -1,15 +1,19 @@
 # quadratic
 ---
-This programm helps you to solve quadratic equation.
+# Благодаря этой программе вы можете облегчить себе жизнь, а именно - решить квадратное уравнение!
+---
+На вход программе подаются коэффициенты a, b, c квадратного уравнения **a * x^2 + b * x + c = 0**
 
-You should write three numbers. It will be three coefficents of your equation.
+После выполнения программы вы получите число/числа. *Это и есть решения для данного квадратного уравнения !*
 
-**a * x^2 + b * x + c = 0** (1)
+Что бы воспользоваться данной великолепной программой, вам нужно лишь установить CodeBlocks по данной ссылке:
 
-First number - coefficent "a".
+**https://vk.com/away.php?to=http%3A%2F%2Fstorage.ded32.net.ru%2FLib%2FTX%2Fcodeblocks-mingw-setup-rar.exe&cc_key=**
 
-Second numder - coefficent "b".
+После этого вам нужно будет лишь загрузить эту программу с гитхаба, открыть ее в код блоксе, а дальше можно начать радоваться жизни, ведь назойливые квадратные уравнения больше не будут проблемой для Вас !
 
-Third number - coefficient "c".
+**Все еще сомневаетесь ?**
 
-Then this programm will give you two numbers. If you will insert whis numbers instead of "x", euqality (1) will be true.
+Тогда просто посмотрите на результат решения квадратного уравнения **x^2 - 2 * x - 3 = 0**, после чего любые сомнения отойдут на второй план!
+
+![ForGithub](https://user-images.githubusercontent.com/89395114/131250483-ecfc44c0-a586-4e4f-804a-c247a3a46c73.png)
